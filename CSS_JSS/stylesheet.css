@@ -46,6 +46,17 @@ body {
 	margin-right: 20px;
 	font-family: 'Lato', sans-serif;
 }
+.glossar{
+	float: right;
+	font-size:120%;
+	margin-right: 10px;	
+}
+.glossarselected{
+	color: blue;
+	float: right;
+	font-size:120%;
+	margin-right: 10px;	
+}
 .linkselected::selection{
 	color: blue;
 	background-color: black;
@@ -64,11 +75,6 @@ div.navigation{
 .navbar{
 	float:left;
 	width: 75%;
-}
-.glossar{
-	float: right;
-	font-size:120%;
-	margin-right: 10px;	
 }
 .searchbar {
 	position: absolute;
