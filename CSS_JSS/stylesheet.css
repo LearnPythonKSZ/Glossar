@@ -219,6 +219,11 @@ div.heading {
 	padding-left: 370px;
 	padding-right: 370px;
 }
+.Glossarerklärung{
+	text-align: left;
+	margin-left: 5%;
+	margin-right: 20%;
+}
 .Begriffserklärungen{
 	margin-bottom: 75px;
 }
