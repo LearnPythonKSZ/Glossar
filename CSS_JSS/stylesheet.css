@@ -230,7 +230,7 @@ div.heading {
 .Glossarlinks{
 	display: inline-block;
 	float: right;
-	text-align_left;
+	text-align: left;
 }
 .Glossarbegriffe{
 	text-align: left;
