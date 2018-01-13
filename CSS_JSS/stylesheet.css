@@ -227,8 +227,14 @@ div.heading {
 .Begriffserklärungen{
 	margin-bottom: 75px;
 }
+.Glossarlinks{
+	display: inline-block;
+	float: right;
+	text-align_left;
+}
 .Glossarbegriffe{
 	text-align: left;
+	float: left;
 	margin-Left: 5%;
 }
 .Begriffe {
