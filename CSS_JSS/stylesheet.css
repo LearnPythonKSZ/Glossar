@@ -221,6 +221,7 @@ div.heading {
 }
 .Glossarerklärung{
 	text-align: left;
+	display: inline-block;
 	margin-left: 5%;
 	margin-right: 20%;
 }
