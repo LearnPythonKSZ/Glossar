@@ -229,12 +229,10 @@ div.heading {
 }
 .Glossarlinks{
 	display: inline-block;
-	float: right;
 	text-align: left;
 }
 .Glossarbegriffe{
 	text-align: left;
-	float: left;
 	margin-Left: 5%;
 }
 .Begriffe {
