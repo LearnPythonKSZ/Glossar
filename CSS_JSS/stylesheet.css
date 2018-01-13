@@ -222,6 +222,10 @@ div.heading {
 .Begriffserklärungen{
 	margin-bottom: 75px;
 }
+.Glossar{
+	text-align: center;
+	margin-Left: 5%;
+}
 .Begriffe {
 	text-align: left;
 	margin-left: 70px;
