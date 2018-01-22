@@ -219,17 +219,19 @@ div.heading {
 	padding-left: 370px;
 	padding-right: 370px;
 }
+
+.Begriffserklärungen{
+	margin-bottom: 75px;
+}
 .Glossarerklärung{
 	text-align: left;
 	display: inline-block;
 	margin-left: 5%;
 	margin-right: 5%
 }
-.Begriffserklärungen{
-	margin-bottom: 75px;
-}
 .Glossarlinks{
-	text-align: left;
+	float: right;
+	text-align: right;
 	display: inline-block;
 }
 .Glossarbegriffe{
